@@ -24,7 +24,7 @@
 
 <h3 align="left">Librerias y frameworks:</h3>
 
-[![My framework](https://skillicons.dev/icons?i=bootstrap,django,jest,jquery,laravel,materialui,react,sass,tailwind,webpack,vite)](https://skillicons.dev)
+[![My framework](https://skillicons.dev/icons?i=bootstrap,django,jest,jquery,laravel,materialui,react,sass,tailwind,webpack,vite,express)](https://skillicons.dev)
 
 <h3 align="left">Base de datos:</h3>
 
