@@ -28,6 +28,10 @@
 
 [![My framework](https://skillicons.dev/icons?i=bootstrap,django,jest,jquery,laravel,materialui,react,sass,tailwind,webpack,vite)](https://skillicons.dev)
 
+<h3 align="left">Base de datos:</h3>
+
+[![My framework](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+
 <h3 align="left">Herramientas:</h3>
 
 [![My Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,nodejs,npm,wordpress)](https://skillicons.dev)
