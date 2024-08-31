@@ -11,8 +11,6 @@
 
 - 📄 Conoce mi experiencia [Curriculum](https://raw.githubusercontent.com/Cristhianbh98/cristhianbh98/main/Cristhian%20CV%20Resume.pdf)
 
-- ⚡ Dato curioso **No me gusta el café**
-
 <h3 align="left">Mis redes:</h3>
 <p align="left">
 <a href="https://twitter.com/cristhianbh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cristhianbh98" height="30" width="40" /></a>
