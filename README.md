@@ -15,8 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/cristhianbh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cristhianbh98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cristhianbh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristhianbh98" height="30" width="40" /></a>
-<a href="https://instagram.com/cristhianbh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristhianbh98" height="30" width="40" /></a>
-[![My Languages](https://skillicons.dev/icons?i=instagram)](https://instagram.com/cristhianbh98)
+<a href="https://instagram.com/cristhianbh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="cristhianbh98" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes:</h3>
