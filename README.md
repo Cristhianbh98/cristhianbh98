@@ -12,10 +12,10 @@
 - 📄 Conoce mi experiencia [Curriculum](https://raw.githubusercontent.com/Cristhianbh98/cristhianbh98/main/Cristhian%20CV%20Resume.pdf)
 
 <h3 align="left">Mis redes:</h3>
-<p align="left">
-<a href="https://twitter.com/cristhianbh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="cristhianbh98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cristhianbh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="cristhianbh98" height="30" width="40" /></a>
-</p>
+
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cristhianbh98)
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cristhianbh98/)
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cristhianbh98)
 
