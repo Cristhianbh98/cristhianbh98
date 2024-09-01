@@ -11,14 +11,6 @@
 
 - 📄 Conoce mi experiencia [Curriculum](https://raw.githubusercontent.com/Cristhianbh98/cristhianbh98/main/Cristhian%20CV%20Resume.pdf)
 
-<h3 align="left">Mis redes:</h3>
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cristhianbh98)
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cristhianbh98/)
-
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cristhianbh98)
-
 <h3 align="left">Lenguajes:</h3>
 
 [![My Languages](https://skillicons.dev/icons?i=js,html,css,py,php,ts)](https://skillicons.dev)
