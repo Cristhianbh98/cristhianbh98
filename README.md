@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/cristhianbh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="cristhianbh98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cristhianbh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="cristhianbh98" height="30" width="40" /></a>
-<a href="https://instagram.com/cristhianbh98" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="cristhianbh98" height="30" width="40" /></a>
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cristhianbh98)
 </p>
 
 <h3 align="left">Lenguajes:</h3>
