@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Cristhian Bacusoy</h1>
-<h3 align="center">Apasionado por la programación, desarrollador Full Stack</h3>
+<h3 align="center">Apasionado por la programación, desarrollador Full Stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristhianbh98&label=Profile%20views&color=0e75b6&style=flat" alt="cristhianbh98" /> </p>
 
