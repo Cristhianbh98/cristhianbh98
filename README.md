@@ -31,8 +31,8 @@
 
 [![My SO](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhianbh98&show_icons=true&locale=en&layout=compact" alt="cristhianbh98" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristhianbh98&show_icons=true&locale=en&layout=compact&theme=dark" alt="cristhianbh98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristhianbh98&show_icons=true&locale=en" alt="cristhianbh98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristhianbh98&show_icons=true&locale=en&theme=dark" alt="cristhianbh98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristhianbh98&" alt="cristhianbh98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristhianbh98&theme=dark" alt="cristhianbh98" /></p>
